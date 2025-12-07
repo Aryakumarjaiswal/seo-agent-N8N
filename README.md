@@ -12,7 +12,7 @@ This repository hosts a robust, automated workflow designed to perform comprehen
 ## ✨ Features
 
 *   **Fully Automated SEO Audit:** Conducts competitor research, performance analysis, and content optimization in a single, streamlined pass.
-*   **AI-Driven Insight Generation:** Utilizes advanced GPT models for in-depth analysis, content suggestion, and report summary creation, minimizing manual interpretation.
+*   **AI-Driven Insight Generation:** Utilizes 11 OpenAI GPT models for in-depth analysis, content suggestion, and report summary creation, minimizing manual interpretation.
 *   **Modular & Customizable:** Each workflow module is designed to be modular, allowing for easy addition, removal, or modification of steps to fit specific SEO strategies (e.g., integrating backlink analysis, schema generation).
 *   **Scalable Performance:** Capable of running across hundreds of URLs automatically, making it ideal for large-scale SEO operations.
 
